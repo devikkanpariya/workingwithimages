@@ -10,7 +10,7 @@ body
 {
 	background-image:url(workbook.jpg);
 	background-repeat:no-repeat;
-	background-size:1450px 1250px, auto;
+	background-size:1350px 1250px, auto;
 }
 .top 
 {
@@ -31,9 +31,10 @@ h1
 }
 p
 {
-	width:95%;
+	width:70%;
 	margin:auto;
-	color:#5E5E5E;
+	color:#000;
+	font-family:'Permanent Marker', cursive;
 	word-spacing:2px;
 	font-size:25px;
 	line-height:42px;
